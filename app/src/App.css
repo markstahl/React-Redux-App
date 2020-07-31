@@ -1,0 +1,15 @@
+  .App {
+  text-align: center;
+  background-image: url('https://img.wallpapersafari.com/desktop/1600/900/62/63/e0tk1U.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+p {
+ font-size: 75px;
+ color: white;
+}
+
+button {
+  margin-bottom: 20px;
+}
